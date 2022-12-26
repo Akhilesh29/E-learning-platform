@@ -1,29 +1,25 @@
 
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Teacher from "./pages/teacherpage/Teacher";
-import Mentor from "./pages/mentorpage/Menor";
+import Mentor from "./pages/mentorpage/Mentor";
 import Mentordescription from "./pages/mentordescriptionpage/Mentordescription";
 import Signup from "./pages/signuppage/Signup";
 import Login from "./pages/loginpage/Loggin";
-import Error from "./Error";
-
 const App = () => {
   return (
+    <>
 
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contactus" element={<Contact />} />
-        <Route path="/contact-msg-sent" element={<MsgSent />} />
-        <Route path="/product-description" element={<Product />} />
-        <Route path="/cart" element={<Cart />} />
-        <Route path="/checkout" element={<Checkout />} />
-
-        <Route path="*" element={<Error />} />
+        <Route path="/teacherpage" element={<Teacher />} />
+        <Route path="/mentorpage" element={< Mentor/>} />
+        <Route path="/mentordescriptionpage" element={<Mentordescription />} />
+        <Route path="/signuppage" element={<Signup />} />
+        <Route path="/loginpage" element={<Login />} />
       </Routes>
     </Router>
+    </>
 
   )
 }
