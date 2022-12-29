@@ -406,23 +406,260 @@ background: #0A033C;
 
 
 }
-.Mentor-3-5-1{
+
+.Mentor-3-5-1 {
     position: absolute;
     width: 290px;
     height: 290px;
     left: 80px;
     top: 887px;
-    
+
     background: url(./Images/Image4.png), #FFFFFF;
     border-radius: 10px;
 
 }
-.Mentor-3-5-2{
+
+.Mentor-3-5-2 {
     position: absolute;
-width: 112px;
+    width: 112px;
+    height: 20px;
+    left: 80px;
+    top: 1189px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+
+    color: #0A033C;
+
+}
+
+.Mentor-3-5-3 {
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 80px;
+    top: 1217px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #5D5A6F;
+
+}
+
+.Mentor-3-6-1 {
+    position: absolute;
+    width: 290px;
+    height: 290px;
+    left: 410px;
+    top: 887px;
+
+    background: url(./Images/Image5.png), #FFFFFF;
+    border-radius: 10px;
+
+}
+
+.Mentor-3-6-2 {
+
+    position: absolute;
+    width: 124px;
+    height: 20px;
+    left: 410px;
+    top: 1189px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+
+    color: #0A033C;
+
+}
+
+.Mentor-3-6-3 {
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 410px;
+    top: 1217px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #5D5A6F;
+}
+
+.Mentor-3-7-1 {
+    position: absolute;
+    width: 290px;
+    height: 290px;
+    left: 740px;
+    top: 887px;
+
+    background: url(./Images/Image6.png), #FFFFFF;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.Mentor-3-7-2 {
+    position: absolute;
+    width: 101px;
+    height: 20px;
+    left: 755px;
+    top: 1189px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+
+    color: #FF6652;
+
+
+}
+
+.Mentor-3-7-3 {
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 755px;
+    top: 1217px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #5D5A6F;
+
+
+}
+
+.Mentor-3-7-4 {
+
+    left: 52.43%;
+    right: 46.46%;
+    bottom: 47.39%;
+    top: 52%;
+
+    background-image: url(./Images/Vector.png),
+
+}
+
+.Mentor-3-7-5 {
+    position: absolute;
+    width: 61px;
+    height: 17px;
+    left: 776px;
+    top: 1242px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #5D5A6F;
+
+
+}
+
+.Mentor-3-8-1 {
+    position: absolute;
+    width: 290px;
+    height: 290px;
+    left: 1070px;
+    top: 887px;
+
+    background: url(./Images/Image7.png), #FFFFFF;
+    border-radius: 10px;
+
+
+}
+
+.Mentor-3-8-2 {
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 1070px;
+    top: 1189px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+
+    color: #0A033C;
+
+
+
+}
+
+.Mentor-3-8-3 {
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 1070px;
+    top: 1217px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #5D5A6F;
+
+}
+.Mentor4-1-1{
+    /* position: absolute; */
+width: 290px;
+height: 290px;
+/* left: 80px;
+top: 1274px; */
+
+background: url(./Images/Image8.png), #FFFFFF;
+border-radius: 10px;
+
+
+}
+.Mentor4-1-2{
+    /* position: absolute; */
+width: 111px;
 height: 20px;
-left: 80px;
-top: 1189px;
+/* left: 80px;
+top: 1576px; */
 
 font-family: 'Inter';
 font-style: normal;
@@ -434,13 +671,15 @@ line-height: 20px;
 
 color: #0A033C;
 
+    
 }
-.Mentor-3-5-3{
-    position: absolute;
+.Mentor3-9-3{
+    
+/* position: absolute; */
 width: 120px;
 height: 17px;
-left: 80px;
-top: 1217px;
+/* left: 80px;
+top: 1604px; */
 
 font-family: 'Inter';
 font-style: normal;
@@ -452,4 +691,5 @@ line-height: 17px;
 
 color: #5D5A6F;
 
+    
 }
