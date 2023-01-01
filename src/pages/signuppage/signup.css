@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Metrophobic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.Signup{
+    position: absolute;
+width: 1060px;
+height: 800px;
+left: 190px;
+top: 140px;
+
+background: #FFFFFF;
+border-radius: 15px;
+}
+.Signup-1{
+
+left: 113px;
+top: 105px;
+}
+.Signup-1-1-1{
+    
+left: 0%;
+right: 57.74%;
+top: 24.17%;
+bottom: 11.81%;
+
+background: url(./images/Vector.svg) ;
+
+}
+.Signup-1-1-2{
+    
+width: 55px;
+height: 20px;
+left: 113px;
+top: 105px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #0A033C;
+
+}
+.Signup-title{
+    margin-left: 88px;
+    font-family: 'Metrophobic';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+}
+

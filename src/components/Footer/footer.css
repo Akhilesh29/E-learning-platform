@@ -1,0 +1,148 @@
+.footer{
+    position:relative;
+    top:60rem;
+    padding-left: 10rem;
+    background-color: #f7f5fa;
+    
+}
+.footer-logo{
+    text-align: left;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.footer-icon{
+    text-align: left;
+    margin-bottom: 1rem;
+    width:15rem;
+}
+.copyright{
+    text-align: left;
+    margin-bottom: 1rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #5D5A6F;
+}
+.registered{
+    text-align: left;
+    margin-bottom: 1rem;
+    width:15rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #5D5A6F;
+}
+
+.footer-courses{
+    text-align:left;
+    margin-bottom: 1rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #0A033C;
+}
+
+.footer-course-field{
+    text-align:left;
+    margin-bottom:1rem;
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height */
+
+
+    color: #5D5A6F;
+}
+
+.footer-community{
+    text-align:left;
+    margin-bottom: 1rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #0A033C;
+}
+
+.footer-community-field{
+    text-align:left;
+    margin-bottom:1rem;
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height */
+
+
+    color: #5D5A6F;
+}
+.footer-link{
+    text-align:left;
+    margin-bottom: 1rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #0A033C;
+}
+
+.footer-link-field{
+    text-align:left;
+    text-decoration: none;
+    margin-bottom:1rem;
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #5D5A6F;
+}
+.More{
+    text-align:left;
+    margin-bottom: 1rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #0A033C;
+}
+
+.More-field{
+    text-align:left;
+    text-decoration: none;
+    margin-bottom:1rem;
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #5D5A6F;
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/Header/Header";
-import Footer from "../../components/Footer/Footer";
+import footer from "../../components/Footer/Footer";
 import './mentor.css';
 
 const Mentor = () => {
@@ -71,7 +71,7 @@ const Mentor = () => {
             </div>
             </div>
             </div>
-            <Footer />
+            <footer />
         </>
 
     );
