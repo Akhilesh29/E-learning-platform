@@ -1,12 +1,11 @@
-
 *{
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 .popup-container{
-    
 
     position: absolute;
     top: 0;
@@ -18,8 +17,7 @@
     justify-content: center;
     align-items: center;
 
-    background-color: rgba(72, 60, 96, 0.259);
-   
+    background-color: rgba(0, 0, 0, 0.259);
 }
 
 .popup{
@@ -107,6 +105,7 @@
 }
 
 
+
 @media only screen and (max-width:1100px) {
     .popup{
         flex-direction: column;
@@ -133,4 +132,23 @@
     }
     
     
+}
+
+.below sign in-1{
+    position: absolute;
+width: 141px;
+height: 30px;
+left: 500px;
+top: 600px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+
+color: #5D5A6F;
+
 }

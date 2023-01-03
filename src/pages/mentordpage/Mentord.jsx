@@ -2,8 +2,15 @@ import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
 import './mentord.css';
+// import Signup from "../signuppage/Signup";
 
 const Mentor = () => {
+    // const btn=document.querySelector(".Mentord-1-2-2"); 
+    // console.log(btn)
+    // btn.addEventListener("click",()=>{
+    //     const signup=document.querySelector(".signup")
+    //     signup.style.display="flex"
+    // })
     return (
         <>
             <Header />
@@ -93,6 +100,7 @@ const Mentor = () => {
                         </div>
                     </div>
                 </div>
+              {/* <Signup/> */}
             </div>
             <Footer />
         </>

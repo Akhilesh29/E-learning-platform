@@ -8,7 +8,7 @@
     text-decoration: none;
 }
 
-.Mentorr {
+.Mentor {
     background-color: #F7F5FA;
     padding-top: 30px;
 }
@@ -67,7 +67,7 @@
     line-height: 20px;
 }
 
-.bg {
+/* .bg-Mentor {
     position: absolute;
     width: 147px;
     height: 60px;
@@ -76,7 +76,7 @@
 
     background: #FFFFFF;
     border-radius: 10px;
-}
+} */
 
 .Mentor-2-2 {
     position: absolute;
@@ -96,7 +96,7 @@
     color: #0A033C;
 }
 
-.bg {
+/* .bg {
     position: absolute;
     width: 190px;
     height: 60px;
@@ -105,7 +105,7 @@
 
     background: #FFFFFF;
     border-radius: 10px;
-}
+} */
 
 .mentor-2-3 {
     position: absolute;
@@ -126,17 +126,16 @@ top: 420px; */
 
 }
 
-.bg {
+/* .bg {
     position: absolute;
     width: 177px;
     height: 60px;
-    /* left: 457px;
-top: 400px; */
+    
 
     background: #FF6652;
-    box-shadow: 0px 15px 50px rgba(255, 102, 82, 0.2);
+    box-shadow :0px 15px 50px rgba(255, 102, 82, 0.2);
     border-radius: 10px;
-}
+} */
 
 .Mentor-2-4 {
     position: absolute;
@@ -157,7 +156,7 @@ top: 400px; */
 
 }
 
-.bg {
+/* .bg {
     position: absolute;
     width: 145px;
     height: 60px;
@@ -166,7 +165,7 @@ top: 400px; */
 
     background: #FFFFFF;
     border-radius: 10px;
-}
+} */
 
 .Mentor-2-5 {
 
